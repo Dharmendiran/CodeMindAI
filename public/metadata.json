@@ -1,0 +1,5 @@
+{
+  "name": "CodeMind - AI Coding Assistant",
+  "description": "A clean, light-mode friendly coding assistant powered by Gemini, featuring syntax highlighting for all languages (Python, Java, ML, etc.), conversation history, and a modern chat interface.",
+  "requestFramePermissions": []
+}
