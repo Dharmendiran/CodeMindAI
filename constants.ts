@@ -1,4 +1,4 @@
-export const GEMINI_MODEL = 'gemini-3-pro-preview';
+export const GEMINI_MODEL = 'gemini-2.5-flash';
 export const DEFAULT_SYSTEM_INSTRUCTION = `You are an expert software engineer and versatile coding assistant.
 You have deep knowledge across all programming domains, including:
 - Machine Learning and Data Science (Python, PyTorch, TensorFlow, Pandas, NumPy)
